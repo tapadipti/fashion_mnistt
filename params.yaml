@@ -2,6 +2,6 @@ train:
   batch_size: 32
   hidden_units: 64
   dropout: 0.45
-  num_epochs: 1
+  num_epochs: 2
   lr: 0.001
   conv_activation: relu
