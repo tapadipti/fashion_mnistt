@@ -21,7 +21,7 @@ stages:
       size: 2377
     params:
       params.yaml:
-        train.batch_size: 128
+        train.batch_size: 64
         train.dropout: 0.45
         train.hidden_units: 64
         train.lr: 0.001
