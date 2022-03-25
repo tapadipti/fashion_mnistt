@@ -10,4 +10,7 @@
 {"loss": 0.2888842523097992, "accuracy": 0.8924720287322998}## Plots
 ### Class confusions
 ![](https://asset.cml.dev/49fa8d11ecd395a0b73713402c6d25a3979a8201?cml=png)
-{"loss": 0.29482150077819824, "accuracy": 0.8912739753723145}
+{"loss": 0.29482150077819824, "accuracy": 0.8912739753723145}## Plots
+### Class confusions
+![](https://asset.cml.dev/1986ad420919d583376e5248f5c5aca685bd7d39?cml=png)
+{"loss": 0.32416969537734985, "accuracy": 0.8795926570892334}
